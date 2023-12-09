@@ -19,3 +19,5 @@ Steps to run RestAssuredFrmewrok locally:
 and select the location where the project is downloaded.
 -To run the test cases, go to this path RestAssuredProject\src\test\java\ and right click on Test01_GET.java file and run as "TestNG Test"
 -To access reports, go to this path TestAutomationFrmework\test-output\ and double click on index.html or emailable-report.html file to view the run results on browser.
+
+*PS: please check the word document as it contains issues that were faced*
